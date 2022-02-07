@@ -11,5 +11,7 @@ export default {
 <style>
 h1 {
   text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 80px;
 }
 </style>

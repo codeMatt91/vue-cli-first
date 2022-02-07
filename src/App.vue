@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <Title />
     <Jumbotron />
   </div>
@@ -18,4 +18,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+.container{
+  background-color: cadetblue;
+}
+</style>
