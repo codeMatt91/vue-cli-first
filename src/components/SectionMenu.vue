@@ -7,7 +7,7 @@
         <i class="fas fa-smile-wink"></i>
         <li>Mezz'Abbacchio <i class="fas fa-meh-rolling-eyes"></i></li>
         <li>Abbacchiato <i class="fas fa-sad-cry"></i></li>
-        <li class="h4">Scottadito</li>
+        <li class="h4">Abbacchio Scottadito</li>
       </ul>
     </div>
   </div>
@@ -31,7 +31,7 @@ ul {
   list-style-type: none;
   padding: 0;
 }
-li{
-   padding: 5px;
+li {
+  padding: 5px;
 }
 </style>
